@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: smart-qr-tools
+Version: 0.1.0
+Summary: Command-line utility to create text and UPI QR codes
+Author-email: Your Name <you@example.com>
+License: MIT
+Keywords: qr,upi,cli,python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: qrcode[pil]>=7.4.2
+Requires-Dist: segno>=1.5.0
+Requires-Dist: pillow>=10.0.0

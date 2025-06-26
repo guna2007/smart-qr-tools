@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+smart_qr_tools.egg-info/PKG-INFO
+smart_qr_tools.egg-info/SOURCES.txt
+smart_qr_tools.egg-info/dependency_links.txt
+smart_qr_tools.egg-info/entry_points.txt
+smart_qr_tools.egg-info/requires.txt
+smart_qr_tools.egg-info/top_level.txt
+smartqr/__init__.py
+smartqr/cli.py
+smartqr/core.py
